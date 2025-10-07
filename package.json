@@ -1,0 +1,12 @@
+{
+  "name": "toirannumbers",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Persian Number"],
+  "author": "AmirCodeZ",
+  "license": "MIT",
+  "description": "A lightweight utility to convert **English digits** (0-9) into **Persian (Farsi) digits** (۰-۹)."
+}
