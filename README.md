@@ -16,7 +16,7 @@ Perfect for localization, Persian web apps, and displaying numbers in the native
 ## 📦 Installation
 
 ```bash
-npm install to-persian-number
+npm i toirannumbers
 ```
 
 ---
